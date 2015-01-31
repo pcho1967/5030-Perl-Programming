@@ -1,0 +1,11 @@
+Q1-Download human gene model file (refGene.txt) from UCSC database.
+Convert it into GFF3 format.
+
+Q2-Extract the genes that overlap with a specied list of genomic regions. The list of regions can be spe cied in BED format. BED format description
+https://genome.ucsc.edu/FAQ/FAQformat.html#format1.
+
+Q3-Parsing a GenBank file to extract the coding sequences (CDS) according to the features and save the sequences in FASTA format.
+http://www.ncbi.nlm.nih.gov/nuccore/U49845
+
+Q4-Assemble a BLAST parser using code snippets in the slides. You need to
+complete the code missed. You can test your program on a BLAST ouput file.
